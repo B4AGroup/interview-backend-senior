@@ -30,7 +30,7 @@ Estamos buscando desenvolvedor(a) front-end para integrar a equipe de TI da B4A.
 - Experiência em e-commerce/clubes de assinatura
 
 # Candidatura
-- Enviar seu CV e o link do repositório no GitHub referente ao teste abaixo no email guilherme.rey@b4agroup.com, com o assunto: Vaga Front-end.
+- Enviar seu CV e o link do repositório no GitHub referente ao teste abaixo no email seung@b4agroup.com, com o assunto: Vaga Front-end.
 - Ou, enviar CV e fazer um pull-request deste mesmo repositório
 - Caso não queria deixar seu projeto público por possuir vínculo com outra empresa você pode enviar um link de algum outro serviço, como BitBucket, por exemplo.
 
